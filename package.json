@@ -1,0 +1,47 @@
+{
+    "name": "goof-off-extension-pack",
+    "displayName": "摸鱼插件",
+    "description": "摸鱼划水必备插件合集",
+    "version": "0.1.0",
+    "publisher": "bat67",
+    "icon": "icon.jpg",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "galleryBanner": {
+        "color": "#333333",
+		"theme": "dark"
+    },
+    "keywords": [
+        "摸鱼",
+		"划水",
+        "娱乐",
+        "vscode",
+		"extension pack"
+	],
+    "categories": [
+        "Extension Packs"
+    ],
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/bat67/goof-off-extension-pack"
+	},
+	"homepage": "https://github.com/bat67/goof-off-extension-pack",
+	"bugs": {
+        "url": "https://github.com/bat67/goof-off-extension-pack/issues"
+    },
+    "extensionDependencies": [ 
+        "giscafer.leek-fund",
+        "niudai.vscode-zhihu",
+        "swimming.vscode-plugin-swimming",
+        "C-TEAM.thief-book",
+        "mathon.code-novel",
+        "aooiu.z-reader",
+        "deepred.daily-anime",
+        "nondanee.vsc-netease-music",
+        "axetroy.vscode-movie",
+        "RUNNERUP.super-encourager",
+        "liyangjj.NBARealTimeScore"
+    ]
+}
