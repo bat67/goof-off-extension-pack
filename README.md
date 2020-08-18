@@ -31,6 +31,7 @@
 - [Code Novel](https://marketplace.visualstudio.com/items?itemName=mathon.code-novel) - 将书隐藏在代码注释中，更加真实的摸鱼神器
 - [z-reader](https://marketplace.visualstudio.com/items?itemName=aooiu.z-reader) - 用来摸鱼或学习的小说阅读插件,支持在线搜索和本地阅读,支持txt和epub格式
 - [daily anime](https://marketplace.visualstudio.com/items?itemName=deepred.daily-anime) - 追番插件
+- [Bangumi Open](https://marketplace.visualstudio.com/items?itemName=SDTTTTT.bangumiopen) - 适用于小破站的番剧插件，附带索引和提醒功能.
 - [NBA real-time score](https://marketplace.visualstudio.com/items?itemName=liyangjj.NBARealTimeScore) - 实时获取当天NBA比赛比分；观看实时文字直播
 - [超级鼓励师](https://marketplace.visualstudio.com/items?itemName=RUNNERUP.super-encourager) - 这里有美图，名言，方便开发的小工具，常见API还有各种娱乐项目等你来体验,奖励下努力工作的您
 
