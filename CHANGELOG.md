@@ -2,6 +2,10 @@
 
 All notable changes to the "leetcode-extension-pack" extension pack will be documented in this file.
 
+## 0.2.0
+
+- Add [Bangumi Open](https://marketplace.visualstudio.com/items?itemName=SDTTTTT.bangumiopen)
+
 
 ## 0.1.0
 
