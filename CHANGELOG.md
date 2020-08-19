@@ -2,6 +2,10 @@
 
 All notable changes to the "leetcode-extension-pack" extension pack will be documented in this file.
 
+## 0.4.0
+
+- Change displayName and description
+
 ## 0.3.0
 
 - Delete one extension

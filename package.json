@@ -1,8 +1,8 @@
 {
     "name": "goof-off-extension-pack",
-    "displayName": "摸鱼插件",
-    "description": "摸鱼划水必备插件合集",
-    "version": "0.3.0",
+    "displayName": "Goof Off (MoYu)",
+    "description": "摸鱼划水必备插件合集 | goof off extension pack",
+    "version": "0.4.0",
     "publisher": "bat67",
     "icon": "icon.jpg",
     "engines": {
