@@ -27,7 +27,6 @@
 - [电影集](https://marketplace.visualstudio.com/items?itemName=axetroy.vscode-movie) - 在 vscode 中查看电影/电视剧资讯
 - [Zhihu On VSCode](https://marketplace.visualstudio.com/items?itemName=niudai.vscode-zhihu) - 基于 VSCode 的知乎客户端提供包括阅读，搜索，创作，发布等一站式服务
 - [Thief-Book](https://marketplace.visualstudio.com/items?itemName=C-TEAM.thief-book) - 摸鱼看书神器 & Looking book tools
-- [swimming](https://marketplace.visualstudio.com/items?itemName=swimming.vscode-plugin-swimming) - VSCode模拟写代码，划水，摸鱼神器
 - [Code Novel](https://marketplace.visualstudio.com/items?itemName=mathon.code-novel) - 将书隐藏在代码注释中，更加真实的摸鱼神器
 - [z-reader](https://marketplace.visualstudio.com/items?itemName=aooiu.z-reader) - 用来摸鱼或学习的小说阅读插件,支持在线搜索和本地阅读,支持txt和epub格式
 - [daily anime](https://marketplace.visualstudio.com/items?itemName=deepred.daily-anime) - 追番插件

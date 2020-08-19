@@ -2,7 +2,7 @@
     "name": "goof-off-extension-pack",
     "displayName": "摸鱼插件",
     "description": "摸鱼划水必备插件合集",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "bat67",
     "icon": "icon.jpg",
     "engines": {
@@ -34,7 +34,6 @@
     "extensionDependencies": [ 
         "giscafer.leek-fund",
         "niudai.vscode-zhihu",
-        "swimming.vscode-plugin-swimming",
         "C-TEAM.thief-book",
         "mathon.code-novel",
         "aooiu.z-reader",
