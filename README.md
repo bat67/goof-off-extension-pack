@@ -33,6 +33,7 @@
 - [Bangumi Open](https://marketplace.visualstudio.com/items?itemName=SDTTTTT.bangumiopen) - 适用于小破站的番剧插件，附带索引和提醒功能.
 - [NBA real-time score](https://marketplace.visualstudio.com/items?itemName=liyangjj.NBARealTimeScore) - 实时获取当天NBA比赛比分；观看实时文字直播
 - [超级鼓励师](https://marketplace.visualstudio.com/items?itemName=RUNNERUP.super-encourager) - 这里有美图，名言，方便开发的小工具，常见API还有各种娱乐项目等你来体验,奖励下努力工作的您
+- [小霸王](https://marketplace.visualstudio.com/items?itemName=gamedilong.anes) - 一款基于vscode的nes游戏插件，在紧张的开发之余在vscode里发松身心。通过劳逸结合，提升开发效率
 
 ## Contributing
 
